@@ -31,6 +31,7 @@ github_username:  jekyll
 domian: htxsg.github.io
 url: https://htxsg.github.io
 
+remote_theme: just-the-docs/just-the-docs
 
 # Build settings
 theme: minima
