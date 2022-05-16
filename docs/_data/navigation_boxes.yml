@@ -1,0 +1,17 @@
+# Boxes include navigation
+
+- title: Getting Started
+  desc: Information to get one onboarded to the cloud environment
+  icon: cog
+  doc: introduction
+
+- title: Cloud Native Design
+  desc: Solution design and blueprints with cloud native approaches
+  icon: settings
+  doc: hero
+
+- title: DevSecOps
+  desc: Automating software releases and security shift-left
+  icon: code
+  doc: customize
+

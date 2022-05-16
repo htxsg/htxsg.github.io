@@ -1,0 +1,21 @@
+# Mobile menu navigation links
+
+- title: Home
+  url: /
+
+- title: Docs
+  url: /docs/introduction/
+
+- title: Blog
+  url: /blog/
+
+- title: Skills
+  url: /skills/introduction/
+
+- title: Contribute
+  url: /contribute/
+
+
+- title: Contact
+  url: /contact/
+  button: success

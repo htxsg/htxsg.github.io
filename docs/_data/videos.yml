@@ -1,0 +1,9 @@
+# Video include content
+
+- title: Azure Terraform Module for Cloud Adoption Framework
+  desc: The Terraform Module for Cloud Adoption Framework Enterprise-scale provides an opinionated approach for delivering the core platform capabilities needed to start building Azure landing zones using Terraform. 
+  url: https://youtu.be/5pJxM1O4bys
+
+- title: AWS Amplify Studio
+  desc: AWS Amplify is a set of purpose-built tools and features that lets front-end and full-stack web and mobile developers quickly build feature-rich apps on AWS, with the flexibility to leverage 175+ AWS services as your use cases evolve.
+  url: https://youtu.be/NLN-q47uPo0

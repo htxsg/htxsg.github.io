@@ -1,0 +1,31 @@
+# Navbar left menu navigation links
+
+left:
+  - title: Home
+    url: /
+
+  - title: Docs
+    url: /docs/introduction/
+
+  - title: Blog
+    url: /blog/
+  
+  - title: Skills
+    url: /skills/introduction/
+
+  - title: Community
+    dropdown:
+      - title: Contribute Article
+        url: /contribute/
+  
+
+# Navbar right menu navigation links
+
+right:
+
+
+  - title: Contact
+    url: /contact/
+    button: success
+
+  

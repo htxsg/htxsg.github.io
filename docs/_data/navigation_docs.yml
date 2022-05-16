@@ -1,0 +1,22 @@
+- title: Getting Started
+  docs:
+  - introduction
+  - onbaording
+
+- title: Azure Landing Zone
+  docs:
+  - iac
+
+- title: AWS Landing Zone
+  docs:
+  - awsdesign
+
+- title: Cloud Native Design
+  docs:
+  - serverless
+  - commonservice
+
+- title: DevSecOps
+  docs:
+  - codescan
+

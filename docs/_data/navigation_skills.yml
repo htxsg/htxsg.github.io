@@ -1,0 +1,20 @@
+- title: Cloud Skills
+  docs:
+  - introduction
+  - azure
+  - aws
+  - terraform
+
+- title: Cloud Foundation
+  docs:
+  - linux
+  - python
+  - docker
+
+- title: Cloud Architecture
+  docs:
+  - azurecaf
+
+- title: Cloud Security
+  docs:
+  - containersec
