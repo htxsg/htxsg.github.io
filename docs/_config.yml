@@ -10,7 +10,9 @@ description:        Documentation for DevXOps a developer community.
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            ""
+domain: htxsg.github.io      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://htxsg.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /htxsg.github.io/docs/      # place folder name if the site is served in a subfolder
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
