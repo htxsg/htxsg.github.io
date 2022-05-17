@@ -8,10 +8,10 @@
 - title: Cloud Native Design
   desc: Solution design and blueprints with cloud native approaches
   icon: settings
-  doc: hero
+  doc: serverless
 
 - title: DevSecOps
   desc: Automating software releases and security shift-left
   icon: code
-  doc: customize
+  doc: codescan
 

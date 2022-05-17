@@ -28,14 +28,14 @@ navbar:
 # Default author settings
 author:
     name:           Ng Pan Yong
-    title:          Chief Cloud Engineer  
+    title:          The Cloud Guy 
     avatar:         avatar-py.jpg
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     panyong:
       name:         Ng Pan Yong
-      title:        Chief Cloud Engineer    
+      title:        The Cloud Guy   
       avatar:       avatar-py.jpg
     kevin:
       name:         Kevin Chan
@@ -50,8 +50,8 @@ authors:
       title:        DevOps Engineer     
       avatar:       avatar-alex.png
     ivan:
-      name:         Ivan Leong
-      title:        Lead CLoud Engineer      
+      name:         Lester Lim
+      title:        CLoud Engineer      
       avatar:       avatar-daniel.png
     raj:
       name:         Raj Senthil
