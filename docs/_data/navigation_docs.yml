@@ -7,6 +7,10 @@
   docs:
   - iac
 
+- title: Azure Troubleshooting Guides
+  docs:
+  - AKS-Error-NSG
+
 - title: AWS Landing Zone
   docs:
   - awsdesign

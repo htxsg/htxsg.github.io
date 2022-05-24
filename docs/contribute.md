@@ -63,32 +63,33 @@ tags: featured
 ---
 ```
 
-4. Place your markdown file in the directory `/htxsg.github.io/docs/posts/`.
+4. Place your markdown file in the directory `/htxsg.github.io/docs/_posts/`.
 
 ## Contributing to Documentation
 
+1. Doc should be written in markdown format.
+   
+2. Add Front matter to the start fo your markdown file. Here's an example:
+
 ```
-- title: Getting Started
-  docs:
-  - introduction
-  - onbaording
+---
+title: AKS Provisioning Error due to NSG
+subtitle: Issues encountered during the setup AKS in Level 4 using CAF codes.
+author: panyong
+tags: [AKS, Troubleshoot]
+---
+```
 
-- title: Azure Landing Zone
-  docs:
-  - iac
+3. Place your markdown file in the directory `/htxsg.github.io/docs/_docs/`. 
 
-- title: AWS Landing Zone
-  docs:
-  - awsdesign
+4. Edit the YAML file `/htxsg.github.io/docs/_data/navigation_docs.yml` to reference new file in the side navigation bar.
 
-- title: Cloud Native Design
+```
+- title: Azure Troubleshooting Guides
   docs:
-  - serverless
-  - commonservice
+  - AKS-Error-NSG
+```
 
-- title: DevSecOps
-  docs:
-  - codescan
-  ```
+[More Information](https://preview.themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/full_screen_preview/21131076?_ga=2.108511234.1642576812.1652670429-1193949032.1652515315)
 
 ## Pushing Updates to GitHub
