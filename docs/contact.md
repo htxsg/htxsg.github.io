@@ -1,12 +1,13 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Contact Us
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+Join our DevXOps community.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/6291e9a77a15e1001334bde8" style="width:100%;height:500px"></iframe>
+

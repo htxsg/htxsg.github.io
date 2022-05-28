@@ -18,7 +18,7 @@ hero:
 
 {% include faqs.html multiple="true" title="FAQ" category="faq" subtitle="Find answers to frequently asked questions" %}
 
-{% include team.html authors="panyong, kevin, lina, yongwee, ivan, raj" title="Our DevXOps Team" subtitle="Folks working behind the scene to grow and enable the community" %}
+{% include team.html authors="panyong, raj" title="Our DevXOps Team" subtitle="Folks working behind the scene to grow and enable the community" %}
 
 {% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us if you can't find what you are looking for" %}
 
