@@ -92,5 +92,5 @@ tags: [AKS, Troubleshoot]
 
 [More Information](https://preview.themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/full_screen_preview/21131076?_ga=2.108511234.1642576812.1652670429-1193949032.1652515315)
 
-## Join as Contributer
+## Join as Contributor
 [Sign Up](https://go.gov.sg/joindevxops) and we will get back to you.
