@@ -2,9 +2,9 @@
 layout: page
 width: expand
 hero:
-    title: Community Space
-    subtitle: Search or browse documentations, guides, in depth articles and videos on everything related to cloud at HTX
-    image: knowledge.svg
+    title: The Good Coffee Company
+    subtitle: Learn about cloud-native transformation through a ficticious organsation.
+    image: coffeebean.svg
     search: true
 ---
 

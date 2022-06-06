@@ -3,7 +3,7 @@
 - title: Getting Started
   desc: Information to get one onboarded to the cloud environment
   icon: cog
-  doc: introduction
+  doc: getstarted
 
 - title: Cloud Native Design
   desc: Solution design and blueprints with cloud native approaches

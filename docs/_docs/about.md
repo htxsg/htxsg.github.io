@@ -1,6 +1,6 @@
 ---
-title: Introduction
-subtitle: This is an introduction
+title: About
+subtitle: Stories from our cloud transformation journey.
 author: panyong
 tags: [intro]
 ---
