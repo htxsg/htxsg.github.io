@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: The Good Coffee Company
-    subtitle: Learn about cloud-native transformation through a ficticious organsation.
+    subtitle: Learn about cloud-native transformation through a ficticious organisation.
     image: coffeebean.svg
     search: true
 ---
