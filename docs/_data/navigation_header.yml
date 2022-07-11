@@ -9,9 +9,6 @@ left:
 
   - title: Blog
     url: /blog/
-  
-  - title: Skills
-    url: /skills/introduction/
 
   - title: Community
     dropdown:
