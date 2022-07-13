@@ -112,7 +112,7 @@ git version 2.32.0 (Apple Git-132)
 
 ## Software Development Tools for Cloud
 Let's install all the software:
-1. First stop, download [VS Code](https://code.visualstudio.com/download). 
+1. First stop, download [VS Code](https://code.visualstudio.com/download). A developer needs to toggle between command shell and VScode often, one really useful setup is to be able to launch VScode from commandline, check out this [video](https://youtu.be/iP5FKZXtDBs).
 2. Get [Docker Desktop](https://www.docker.com/get-started/).
 3. Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 4. Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos):
