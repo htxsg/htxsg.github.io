@@ -1,10 +1,6 @@
 ---
-title: Question 2?
-categories: [presale]
+title: How do I pick up the neccesary cloud skills?
+categories: [faq]
 ---
 
-Regardless of whether you have support or not:
-
-- When we release an update, it will be available for you to download for free
-- You can report bugs
-- You can expect us to keep the item in good working order, working as described and protected against major security issues
+The skills needed for the cloud is varied, it ranges from knowing basics of Git, Linux, Web and Networking to specifics of Cloud Providers services; cloud-native technology like Kubernetes and serverless and cloud security. It is a ever moving space. Check out [Cloud Ape](https://cloudape.github.io).
