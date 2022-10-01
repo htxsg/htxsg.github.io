@@ -124,8 +124,6 @@ collections:
   docs:
     output:         true
   faqs:
-    output:         false
-  skills:
     output:         true
   pages:
     output:         false
@@ -145,12 +143,6 @@ defaults:
       type:         docs
     values:
       layout:       doc
-  # _skills
-  - scope:
-      path:         ""
-      type:         skills
-    values:
-      layout:       skills
   # _info
   - scope:
       path:         ""
