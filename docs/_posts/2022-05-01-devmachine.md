@@ -150,3 +150,8 @@ on darwin_arm64
 ### Use the developer tools in the Develop menu in Safari on Mac
 If you don’t see the **Develop** menu in the menu bar, choose Safari > Preferences, click Advanced, then select “Show Develop menu in menu bar.”. The checkbox was right at the bottom at the point of writing.
 
+### Python in Visual Studio Code
+Here are some helpful links:
+- [Getting Started](https://code.visualstudio.com/docs/python/python-tutorial)
+- [Install Python Libraries in Visual Studio Code](https://www.youtube.com/watch?v=ThU13tikHQw)
+
